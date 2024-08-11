@@ -1,0 +1,169 @@
+{
+  "structures": {
+    "icon": "legacy:icon/structures",
+    "displayName": "legacy.container.tab.structures",
+    "listing": {
+      "planks": ["oak_planks","birch_planks","spruce_planks","jungle_planks","acacia_planks","dark_oak_planks","mangrove_planks","bamboo_planks","bamboo_mosaic","cherry_planks","crimson_planks","warped_planks","oak_wood","birch_wood","spruce_wood","jungle_wood","acacia_wood","dark_oak_wood","mangrove_wood","bamboo_block","cherry_wood","crimson_hyphae","warped_hyphae","stripped_oak_wood","stripped_birch_wood","stripped_spruce_wood","stripped_jungle_wood","stripped_acacia_wood","stripped_dark_oak_wood","stripped_mangrove_wood","stripped_cherry_wood","stripped_crimson_hyphae","stripped_warped_hyphae","muddy_mangrove_roots"],
+      "stick": ["stick","stick_from_bamboo_item","ladder","scaffolding"],
+      "compact_stone": ["quartz_block","chiseled_quartz_block","quartz_pillar","quartz_bricks","stone_bricks","chiseled_stone_bricks","mossy_stone_bricks","mossy_cobblestone_from_vine","mossy_cobblestone_from_moss_block","red_nether_bricks","diorite","granite","andesite","polished_diorite","polished_granite","polished_andesite","polished_basalt","polished_blackstone","purpur_pillar","end_stone_bricks","dripstone_block"],
+      "compact": ["sandstone","red_sandstone","cut_sandstone","cut_red_sandstone","chiseled_sandstone","chiseled_red_sandstone","nether_bricks","coarse_dirt","prismarine","prismarine_bricks","dark_prismarine","snow_block","snow","clay","bricks","packed_mud","mud_bricks","bone_block","honeycomb_block"],
+      "utility": ["crafting_table","furnace","blast_furnace","smoker","campfire","soul_campfire","enchanting_table","anvil","brewing_stand","cartography_table","loom","fletching_table","smithing_table","stonecutter","grindstone"],
+      "chest": ["chest","trapped_chest","ender_chest","barrel","shulker_box"],
+      "bed": ["white_bed","orange_bed","magenta_bed","light_blue_bed","yellow_bed","lime_bed","pink_bed","gray_bed","light_gray_bed","cyan_bed","purple_bed","blue_bed","brown_bed","green_bed","red_bed","black_bed"],
+      "barrier": ["oak_fence","birch_fence","spruce_fence","jungle_fence","acacia_fence","dark_oak_fence","mangrove_fence","bamboo_fence","cherry_fence","cobblestone_wall","mossy_cobblestone_wall","cobbled_deepslate_wall","polished_deepslate_wall","deepslate_brick_wall","deepslate_tile_wall","blackstone_wall","polished_blackstone_wall","blackstone_brick_wall","granite_wall","diorite_wall","andesite_wall","brick_wall","stone_brick_wall","mossy_stone_brick_wall","nether_brick_wall","red_nether_brick_wall","sandstone_wall","red_sandstone_wall","mud_brick_wall","end_stone_brick_wall","prismarine_wall","nether_brick_fence","iron_bars"],
+      "gate": ["oak_fence_gate","birch_fence_gate","spruce_fence_gate","jungle_fence_gate","acacia_fence_gate","dark_oak_fence_gate","mangrove_fence_gate","bamboo_fence_gate","cherry_fence_gate"],
+      "door": ["oak_door","birch_door","spruce_door","jungle_door","acacia_door","dark_oak_door","mangrove_door","bamboo_door","cherry_door","crimson_door","warped_door","iron_door","copper_door","oak_trapdoor","birch_trapdoor","spruce_trapdoor","jungle_trapdoor","acacia_trapdoor","dark_oak_trapdoor","mangrove_trapdoor","bamboo_trapdoor","cherry_trapdoor","crimson_trapdoor","warped_trapdoor","iron_trapdoor","copper_trapdoor"],
+      "stairs": ["oak_stairs","birch_stairs","spruce_stairs","jungle_stairs","acacia_stairs","dark_oak_stairs","mangrove_stairs","bamboo_stairs","bamboo_mosaic_stairs","cherry_stairs","crimson_stairs","warped_stairs","cobblestone_stairs","mossy_cobblestone_stairs","cobbled_deepslate_stairs","polished_deepslate_stairs","deepslate_brick_stairs","deepslate_tile_stairs","blackstone_stairs","polished_blackstone_stairs","blackstone_brick_stairs","granite_stairs","polished_granite_stairs","diorite_stairs","polished_diorite_stairs","andesite_stairs","polished_andesite_stairs","brick_stairs","stone_stairs","stone_brick_stairs","mossy_stone_brick_stairs","mud_brick_stairs","nether_brick_stairs","red_nether_brick_stairs","sandstone_stairs","smooth_sandstone_stairs","red_sandstone_stairs","smooth_red_sandstone_stairs","quartz_stairs","smooth_quartz_stairs","purpur_stairs","end_stone_brick_stairs","prismarine_stairs","prismarine_brick_stairs","dark_prismarine_stairs","cut_copper_stairs","exposed_cut_copper_stairs","weathered_cut_copper_stairs","oxidized_cut_copper_stairs","waxed_cut_copper_stairs","waxed_exposed_cut_copper_stairs","waxed_weathered_cut_copper_stairs","waxed_oxidized_cut_copper_stairs"],
+      "slab": ["cobblestone_slab","smooth_stone_slab","mossy_cobblestone_slab","cobbled_deepslate_slab","polished_deepslate_slab","deepslate_brick_slab","deepslate_tile_slab","blackstone_slab","polished_blackstone_slab","blackstone_brick_slab","granite_slab","polished_granite_slab","diorite_slab","polished_diorite_slab","andesite_slab","polished_andesite_slab","brick_slab","stone_slab","stone_brick_slab","mossy_stone_brick_slab","mud_brick_slab","nether_brick_slab","red_nether_brick_slab","sandstone_slab","red_sandstone_slab","quartz_slab","smooth_quartz_slab","purpur_slab","end_stone_brick_slab","prismarine_slab","prismarine_brick_slab","dark_prismarine_slab","cut_copper_slab","exposed_cut_copper_slab","weathered_cut_copper_slab","oxidized_cut_copper_slab","waxed_cut_copper_slab","waxed_exposed_cut_copper_slab","waxed_weathered_cut_copper_slab","waxed_oxidized_cut_copper_slab","oak_slab","birch_slab","spruce_slab","jungle_slab","acacia_slab","dark_oak_slab","mangrove_slab","bamboo_slab","bamboo_mosaic_slab","cherry_slab","crimson_slab","warped_slab"]
+    }
+  },
+  "tools": {
+    "icon": "legacy:icon/tools",
+    "displayName": "legacy.container.tab.tools",
+    "listing": {
+      "pickaxe": ["wooden_pickaxe","stone_pickaxe","iron_pickaxe","diamond_pickaxe","golden_pickaxe"],
+      "shovel": ["wooden_shovel","stone_shovel","iron_shovel","diamond_shovel","golden_shovel"],
+      "axe": ["wooden_axe","stone_axe","iron_axe","diamond_axe","golden_axe"],
+      "hoe": ["wooden_hoe","stone_hoe","iron_hoe","diamond_hoe","golden_hoe"],
+      "misc": ["shears","tnt","flint_and_steel","bundle","brush","mace"],
+      "rod": ["fishing_rod","carrot_on_a_stick","warped_fungus_on_a_stick"],
+      "archery": ["bow","crossbow","arrow","spectral_arrow","tipped_arrow"],
+      "sword": ["wooden_sword","stone_sword","iron_sword","diamond_sword","golden_sword"],
+      "": ["shield"],
+      "container": ["bucket","bowl","glass_bottle","cauldron","composter"],
+      "lighting": ["torch","soul_torch","glowstone","sea_lantern","fire_charge","jack_o_lantern","end_rod","lantern","soul_lantern"],
+      "location": ["clock","ender_eye","lead","compass","recovery_compass","map","spyglass"]
+    }
+  },
+  "food": {
+    "icon": "legacy:icon/food",
+    "displayName": "legacy.container.tab.food",
+    "listing": [
+      {"group":"golden","recipes": ["golden_apple","legacy:enchanted_golden_apple","glistering_melon_slice","golden_carrot"]},
+      {"group":"stew","recipes": ["mushroom_stew","rabbit_stew_from_brown_mushroom","rabbit_stew_from_red_mushroom","beetroot_soup"]},
+      "cookie","melon",
+      {"group":"seeds","recipes": ["melon_seeds","pumpkin_seeds"]},
+      "pumpkin_pie","fermented_spider_eye","blaze_powder","magma_cream","cake",{"group":"sugar","recipes": ["sugar_from_sugar_cane","sugar_from_honey_bottle"]},"bread"
+    ]
+  },
+  "armour": {
+    "icon": "legacy:icon/armour",
+    "displayName": "legacy.container.tab.armour",
+    "listing": {
+      "helmet": ["leather_helmet","iron_helmet","diamond_helmet","golden_helmet","turtle_helmet"],
+      "chestplate": ["leather_chestplate","iron_chestplate","diamond_chestplate","golden_chestplate"],
+      "leggings": ["leather_leggings","iron_leggings","diamond_leggings","golden_leggings"],
+      "boots": ["leather_boots","iron_boots","diamond_boots","golden_boots"],
+      "horse": ["leather_horse_armor"],
+      "wolf": ["wolf_armor"],
+      "": ["netherite_upgrade_smithing_template"],
+      "templates": ["#trim_templates"]
+    }
+  },
+  "mechanisms": {
+    "icon": "legacy:icon/mechanisms",
+    "displayName": "legacy.container.tab.mechanisms",
+    "listing": [
+      {"group":"activatable", "recipes": ["redstone_lamp","note_block","oxidized_copper_bulb","weathered_copper_bulb","exposed_copper_bulb","copper_bulb"]},
+      {"group":"effect", "recipes": ["beacon","conduit","respawn_anchor","lodestone"]},
+      {"group":"emitter","recipes": ["lever","tripwire_hook"]},
+      "redstone_torch",
+      {"group": "utility", "recipes": ["repeater","comparator"]},
+      {"group": "sensor", "recipes": ["daylight_detector","calibrated_sculk_sensor","target","lightning_rod"]},
+      "end_crystal",
+      {"group": "item_transport", "recipes": ["hopper","dispenser","dropper","crafter"]},
+      {"group": "button", "recipes": ["stone_button","oak_button","birch_button","spruce_button","jungle_button","acacia_button","dark_oak_button","mangrove_button","bamboo_button","cherry_button","crimson_button","warped_button"]},
+      {"group": "pressure_plate", "recipes": ["oak_pressure_plate","birch_pressure_plate","spruce_pressure_plate","jungle_pressure_plate","acacia_pressure_plate","dark_oak_pressure_plate","mangrove_pressure_plate","bamboo_pressure_plate","cherry_pressure_plate","crimson_pressure_plate","warped_pressure_plate","stone_pressure_plate","polished_blackstone_pressure_plate","heavy_weighted_pressure_plate","light_weighted_pressure_plate"]},
+      "observer",
+      {"group": "piston", "recipes": ["piston","sticky_piston"]}
+    ]
+  },
+  "transport": {
+    "icon": "legacy:icon/transport",
+    "displayName": "legacy.container.tab.transport",
+    "listing": {
+      "rail": ["rail","powered_rail","detector_rail","activator_rail"],
+      "": ["minecart","chest_minecart","furnace_minecart","tnt_minecart","hopper_minecart"],
+      "boat": ["oak_boat","birch_boat","spruce_boat","jungle_boat","acacia_boat","dark_oak_boat","mangrove_boat","bamboo_raft","cherry_boat"],
+      "chest_boat": ["oak_chest_boat","birch_chest_boat","spruce_chest_boat","jungle_chest_boat","acacia_chest_boat","dark_oak_chest_boat","mangrove_chest_boat","bamboo_chest_raft","cherry_chest_boat"]
+    }
+  },
+  "decoration": {
+    "icon": "legacy:icon/decoration",
+    "displayName": "legacy.container.tab.decoration",
+    "listing": {
+      "glass": ["glass_pane","black_stained_glass","black_stained_glass_pane","black_stained_glass_pane_from_glass_pane","red_stained_glass","red_stained_glass_pane","red_stained_glass_pane_from_glass_pane","green_stained_glass","green_stained_glass_pane","green_stained_glass_pane_from_glass_pane","brown_stained_glass","brown_stained_glass_pane","brown_stained_glass_pane_from_glass_pane","blue_stained_glass","blue_stained_glass_pane","blue_stained_glass_pane_from_glass_pane","purple_stained_glass","purple_stained_glass_pane","purple_stained_glass_pane_from_glass_pane","cyan_stained_glass","cyan_stained_glass_pane","cyan_stained_glass_pane_from_glass_pane","light_gray_stained_glass","light_gray_stained_glass_pane","light_gray_stained_glass_pane_from_glass_pane","gray_stained_glass","gray_stained_glass_pane","gray_stained_glass_pane_from_glass_pane","pink_stained_glass","pink_stained_glass_pane","pink_stained_glass_pane_from_glass_pane","lime_stained_glass","lime_stained_glass_pane","lime_stained_glass_pane_from_glass_pane","yellow_stained_glass","yellow_stained_glass_pane","yellow_stained_glass_pane_from_glass_pane","light_blue_stained_glass","light_blue_stained_glass_pane","light_blue_stained_glass_pane_from_glass_pane","magenta_stained_glass","magenta_stained_glass_pane","magenta_stained_glass_pane_from_glass_pane","orange_stained_glass","orange_stained_glass_pane","orange_stained_glass_pane_from_glass_pane","white_stained_glass","white_stained_glass_pane","white_stained_glass_pane_from_glass_pane","tinted_glass"],
+      "compact": ["purpur_block","magma_block","nether_wart_block","dried_kelp_block","packed_ice","blue_ice","gold_block","raw_gold_block","iron_block","raw_iron_block","diamond_block","emerald_block","lapis_block","redstone_block","coal_block","netherite_block","amethyst_block","copper_block","raw_copper_block","cut_copper","exposed_cut_copper","weathered_cut_copper","oxidized_cut_copper","waxed_copper_block","waxed_exposed_copper","waxed_weathered_copper","waxed_oxidized_copper","waxed_cut_copper","waxed_exposed_cut_copper","waxed_weathered_cut_copper","waxed_oxidized_cut_copper","hay_block","slime_block","honey_block"],
+      "stained_terracotta": ["black_terracotta","red_terracotta","green_terracotta","brown_terracotta","blue_terracotta","purple_terracotta","cyan_terracotta","light_gray_terracotta","gray_terracotta","pink_terracotta","lime_terracotta","yellow_terracotta","light_blue_terracotta","magenta_terracotta","orange_terracotta","white_terracotta"],
+      "concrete_powder": ["black_concrete_powder","red_concrete_powder","green_concrete_powder","brown_concrete_powder","blue_concrete_powder","purple_concrete_powder","cyan_concrete_powder","light_gray_concrete_powder","gray_concrete_powder","pink_concrete_powder","lime_concrete_powder","yellow_concrete_powder","light_blue_concrete_powder","magenta_concrete_powder","orange_concrete_powder","white_concrete_powder"],
+      "wool": ["dye_orange_wool","dye_magenta_wool","dye_light_blue_wool","dye_yellow_wool","dye_lime_wool","dye_pink_wool","dye_gray_wool","dye_light_gray_wool","dye_cyan_wool","dye_purple_wool","dye_blue_wool","dye_brown_wool","dye_green_wool","dye_red_wool","dye_black_wool","dye_white_wool","white_wool_from_string"],
+      "dye": ["yellow_dye_from_dandelion","yellow_dye_from_sunflower","red_dye_from_poppy","red_dye_from_rose_bush","red_dye_from_tulip","red_dye_from_beetroot","white_dye","white_dye_from_lily_of_the_valley","pink_dye_from_red_white_dye","pink_dye_from_peony","pink_dye_from_pink_petals","pink_dye_from_pink_tulip","orange_dye_from_orange_tulip","orange_dye_from_torchflower","orange_dye_from_red_yellow","lime_dye","brown_dye","black_dye","black_dye_from_wither_rose","gray_dye","light_gray_dye_from_gray_white_dye","light_gray_dye_from_black_white_dye","light_gray_dye_from_azure_bluet","light_gray_dye_from_oxeye_daisy","light_gray_dye_from_white_tulip","light_blue_dye_from_blue_white_dye","light_blue_dye_from_blue_orchid","cyan_dye","cyan_dye_from_pitcher_plant","purple_dye","magenta_dye_from_purple_and_pink","magenta_dye_from_blue_red_pink","magenta_dye_from_blue_red_white_dye","magenta_dye_from_alium","magenta_dye_from_lilac","blue_dye_from_cornflower","blue_dye"],
+      "carpet": ["white_carpet","orange_carpet","magenta_carpet","light_blue_carpet","yellow_carpet","lime_carpet","pink_carpet","gray_carpet","light_gray_carpet","cyan_carpet","purple_carpet","blue_carpet","brown_carpet","green_carpet","red_carpet","black_carpet","moss_carpet"],
+      "banner": ["white_banner","orange_banner","magenta_banner","light_blue_banner","yellow_banner","lime_banner","pink_banner","gray_banner","light_gray_banner","cyan_banner","purple_banner","blue_banner","brown_banner","green_banner","red_banner","black_banner","moss_banner"],
+      "candle": ["#candles"],
+      "misc": ["flower_pot","jukebox","chain","beehive","music_disc_5"],
+      "utility": ["armor_stand","painting","item_frame","glow_item_frame","oak_sign","birch_sign","spruce_sign","jungle_sign","acacia_sign","dark_oak_sign","mangrove_sign","bamboo_sign","cherry_sign","crimson_sign","warped_sign","oak_hanging_sign","birch_hanging_sign","spruce_hanging_sign","jungle_hanging_sign","acacia_hanging_sign","dark_oak_hanging_sign","mangrove_hanging_sign","bamboo_hanging_sign","cherry_hanging_sign","crimson_hanging_sign","warped_hanging_sign"],
+      "library": ["paper","book","writable_book","bookshelf","chiseled_bookshelf","lectern","leather","creeper_banner_pattern","flower_banner_pattern","globe_banner_pattern","mojang_banner_pattern","piglin_banner_pattern","skull_banner_pattern"],
+      "unboxing": ["dried_kelp","gold_ingot_from_gold_block","iron_ingot_from_iron_block","netherite_ingot_from_netherite_block","copper_ingot","diamond","emerald","lapis_lazuli","redstone","coal","wheat","slime_ball","legacy:string","bone_meal","bone_meal_from_bone_block","raw_gold","raw_iron","raw_copper","gold_ingot_from_nuggets","gold_nugget","iron_ingot_from_nuggets","iron_nugget","netherite_ingot"]
+    }
+  },
+  "Cobblemon_agriculture&archicology": {
+    "icon": "cobblemon:icon/growth_mulch",
+    "displayName": "legacy.container.tab.cobblemon.Agriculture",
+    "listing": {
+      "herbs_and_roots": ["cobblemon:","cobblemon:big_root","cobblemon:energy_root","cobblemon:revival_herb","cobblemon:pep_up_flower","cobblemon:mental_herb","cobblemon:power_herb","cobblemon:white_herb","cobblemon:mirror_herb","cobblemon:vivichoke","cobblemon:vivichoke_seeds"],
+      "apricorns": ["cobblemon:red_apricorn","cobblemon:yellow_apricorn","cobblemon:green_apricorn","cobblemon:blue_apricorn","cobblemon:pink_apricorn","cobblemon:black_apricorn","cobblemon:white_apricorn","cobblemon:red_apricorn_seed","cobblemon:yellow_apricorn_seed","cobblemon:green_apricorn_seed","cobblemon:blue_apricorn_seed","cobblemon:pink_apricorn_seed","cobblemon:black_apricorn_seed","cobblemon:white_apricorn_seed"],
+      "mints": ["cobblemon:red_mint_seeds","cobblemon:red_mint_leaf","cobblemon:blue_mint_seeds","cobblemon:blue_mint_leaf","cobblemon:cyan_mint_seeds","cobblemon:cyan_mint_leaf","cobblemon:pink_mint_seeds","cobblemon:pink_mint_leaf","cobblemon:green_mint_seeds","cobblemon:green_mint_leaf","cobblemon:white_mint_seeds","cobblemon:white_mint_leaf"],
+      "mulch": ["cobblemon:growth_mulch","cobblemon:rich_mulch","cobblemon:surprise_mulch","cobblemon:loamy_mulch","cobblemon:coarse_mulch","cobblemon:peat_mulch","cobblemon:humid_mulch","cobblemon:sandy_mulch","cobblemon:mulch_base"],
+      "fossils":["cobblemon:helix_fossil","cobblemon:dome_fossil","cobblemon:old_amber_fossil","cobblemon:root_fossil","cobblemon:claw_fossil","cobblemon:skull_fossil","cobblemon:armor_fossil","cobblemon:cover_fossil","cobblemon:plume_fossil","cobblemon:jaw_fossil","cobblemon:sail_fossil","cobblemon:fossilized_bird","cobblemon:fossilized_fish","cobblemon:fossilized_drake","cobblemon:fossilized_dino"],
+      "tumblestones":["cobblemon:tumblestone","cobblemon:black_tumblestone","cobblemon:sky_tumblestone","cobblemon:small_budding_tumblestone","cobblemon:small_budding_black_tumblestone","cobblemon:small_budding_sky_tumblestone","cobblemon:medium_budding_tumblestone","cobblemon:medium_budding_black_tumblestone","cobblemon:medium_budding_sky_tumblestone","cobblemon:large_budding_tumblestone","cobblemon:large_budding_black_tumblestone","cobblemon:large_budding_sky_tumblestone","cobblemon:tumblestone_cluster","cobblemon:black_tumblestone_cluster","cobblemon:sky_tumblestone_cluster","cobblemon:tumblestone_block","cobblemon:black_tumblestone_block","cobblemon:sky_tumblestone_block"],
+      "shards":["cobblemon:bygone_sherd","cobblemon:capture_sherd","cobblemon:dome_sherd","cobblemon:helix_sherd","cobblemon:nostalgic_sherd","cobblemon:suspicious_sherd"],
+      "otheritems":["cobblemon:automaton_armor_trim_smithing_template","cobblemon:relic_coin","cobblemon:relic_coin_pouch","cobblemon:relic_coin_sack","cobblemon:gilded_chest","cobblemon:yellow_gilded_chest","cobblemon:green_gilded_chest","cobblemon:blue_gilded_chest","cobblemon:pink_gilded_chest","cobblemon:black_gilded_chest","cobblemon:white_gilded_chest","cobblemon:gimmighoul_chest"],
+      "gems":["cobblemon:normal_gem","cobblemon:fire_gem","cobblemon:water_gem","cobblemon:grass_gem","cobblemon:electric_gem","cobblemon:ice_gem","cobblemon:fighting_gem","cobblemon:poison_gem","cobblemon:ground_gem","cobblemon:flying_gem","cobblemon:psychic_gem","cobblemon:bug_gem","cobblemon:rock_gem","cobblemon:ghost_gem","cobblemon:dragon_gem","cobblemon:dark_gem","cobblemon:steel_gem","cobblemon:fairy_gem"]
+    }
+  },
+  "cobblemon_blocks": {
+    "icon": "cobblemon:icon/pc",
+    "displayName": "legacy.container.tab.cobblemon.blocks",
+    "listing": {
+      "equipment/machines":["cobblemon:restoration_tank","cobblemon:fossil_analyzer","cobblemon:monitor","cobblemon:pc","cobblemon:healing_machine","cobblemon:pasture"],
+      "storage":["cobblemon:gilded_chest","cobblemon:yellow_gilded_chest","cobblemon:green_gilded_chest","cobblemon:blue_gilded_chest","cobblemon:pink_gilded_chest","cobblemon:black_gilded_chest","cobblemon:white_gilded_chest","cobblemon:gimmighoul_chest","cobblemon:relic_coin_pouch","cobblemon:relic_coin_sack","cobblemon:display_case"],
+      "apricorn_blocks":["cobblemon:apricorn_log","cobblemon:apricorn_wood","cobblemon:stripped_apricorn_log","cobblemon:stripped_apricorn_wood","cobblemon:apricorn_planks","cobblemon:apricorn_stairs","cobblemon:apricorn_slab","cobblemon:apricorn_fence","cobblemon:apricorn_fence_gate","cobblemon:apricorn_door","cobblemon:apricorn_trapdoor","cobblemon:apricorn_button","cobblemon:apricorn_pressure_plate","cobblemon:apricorn_sign","cobblemon:apricorn_hanging_sign","cobblemon:apricorn_leaves"],
+      "tumblestone_blocks":["cobblemon:tumblestone_block","cobblemon:black_tumblestone_block","cobblemon:sky_tumblestone_block","cobblemon:polished_tumblestone","cobblemon:polished_tumblestone_stairs","cobblemon:polished_tumblestone_slab","cobblemon:polished_tumblestone_wall","cobblemon:chiseled_polished_tumblestone","cobblemon:tumblestone_bricks","cobblemon:tumblestone_brick_stairs","cobblemon:tumblestone_brick_slab","cobblemon:tumblestone_brick_wall","cobblemon:chiseled_tumblestone_bricks","cobblemon:polished_black_tumblestone","cobblemon:polished_black_tumblestone_stairs","cobblemon:polished_black_tumblestone_slab","cobblemon:polished_black_tumblestone_wall","cobblemon:chiseled_polished_black_tumblestone","cobblemon:black_tumblestone_bricks","cobblemon:black_tumblestone_brick_stairs","cobblemon:black_tumblestone_brick_slab","cobblemon:black_tumblestone_brick_wall","cobblemon:chiseled_black_tumblestone_bricks","cobblemon:polished_sky_tumblestone","cobblemon:polished_sky_tumblestone_stairs","cobblemon:polished_sky_tumblestone_slab","cobblemon:polished_sky_tumblestone_wall","cobblemon:chiseled_polished_sky_tumblestone","cobblemon:sky_tumblestone_bricks","cobblemon:sky_tumblestone_brick_stairs","cobblemon:sky_tumblestone_brick_slab","cobblemon:sky_tumblestone_brick_wall","cobblemon:chiseled_sky_tumblestone_bricks"],
+      "ores":["cobblemon:dawn_stone_ore","cobblemon:deepslate_dawn_stone_ore","cobblemon:dusk_stone_ore","cobblemon:deepslate_dusk_stone_ore","cobblemon:fire_stone_ore","cobblemon:deepslate_fire_stone_ore","cobblemon:nether_fire_stone_ore","cobblemon:ice_stone_ore","cobblemon:deepslate_ice_stone_ore","cobblemon:leaf_stone_ore","cobblemon:deepslate_leaf_stone_ore","cobblemon:moon_stone_ore","cobblemon:deepslate_moon_stone_ore","cobblemon:dripstone_moon_stone_ore","cobblemon:shiny_stone_ore","cobblemon:deepslate_shiny_stone_ore","cobblemon:sun_stone_ore","cobblemon:deepslate_sun_stone_ore","cobblemon:terracotta_sun_stone_ore","cobblemon:thunder_stone_ore","cobblemon:deepslate_thunder_stone_ore","cobblemon:water_stone_ore","cobblemon:deepslate_water_stone_ore"]
+    }
+  },
+  "Cobblemon_food": {
+    "icon": "cobblemon:icon/carbos",
+    "displayName": "legacy.container.tab.cobblemon.food",
+    "listing": {
+      "Food": ["cobblemon:roasted_leek","cobblemon:leek_and_potato_stew","cobblemon:braised_vivichoke","cobblemon:vivichoke_dip","cobblemon:berry_juice"],
+      "Healing": ["cobblemon:remedy","cobblemon:fine_remedy","cobblemon:superb_remedy","cobblemon:heal_powder","cobblemon:medicinal_brew","cobblemon:potion","cobblemon:super_potion","cobblemon:hyper_potion","cobblemon:max_potion","cobblemon:full_restore","cobblemon:antidote","cobblemon:awakening","cobblemon:burn_heal","cobblemon:ice_heal","cobblemon:paralyze_heal","cobblemon:full_heal","cobblemon:ether","cobblemon:max_ether","cobblemon:elixir","cobblemon:max_elixir","cobblemon:revive","cobblemon:max_revive"],
+      "StatBoosting": ["cobblemon:x_attack","cobblemon:x_defense","cobblemon:x_sp_atk","cobblemon:x_sp_def","cobblemon:x_speed","cobblemon:x_accuracy","cobblemon:dire_hit","cobblemon:guard_spec","cobblemon:health_feather","cobblemon:muscle_feather","cobblemon:resist_feather","cobblemon:genius_feather","cobblemon:clever_feather","cobblemon:swift_feather","cobblemon:hp_up","cobblemon:protein","cobblemon:iron","cobblemon:calcium","cobblemon:zinc","cobblemon:carbos","cobblemon:pp_up","cobblemon:pp_max"],
+      "Experience": ["cobblemon:experience_candy_xs","cobblemon:experience_candy_s","cobblemon:experience_candy_m","cobblemon:experience_candy_l","cobblemon:experience_candy_xl","cobblemon:rare_candy"],
+      "NatureChanging": ["cobblemon:lonely_mint","cobblemon:adamant_mint","cobblemon:naughty_mint","cobblemon:brave_mint","cobblemon:bold_mint","cobblemon:impish_mint","cobblemon:lax_mint","cobblemon:relaxed_mint","cobblemon:modest_mint","cobblemon:mild_mint","cobblemon:rash_mint","cobblemon:quiet_mint","cobblemon:calm_mint","cobblemon:gentle_mint","cobblemon:careful_mint","cobblemon:sassy_mint","cobblemon:timid_mint","cobblemon:hasty_mint","cobblemon:jolly_mint","cobblemon:naive_mint","cobblemon:serious_mint"],
+      "Other": ["cobblemon:ability_capsule","cobblemon:ability_patch"]
+    }
+  },
+  "Cobblemon_consunable_held_items": {
+    "icon": "cobblemon:icon/exp_share",
+    "displayName": "legacy.container.tab.cobblemon.consunable_held_items",
+    "listing": {
+      "battleitems": ["cobblemon:assault_vest","cobblemon:black_belt","cobblemon:black_glasses","cobblemon:blunder_policy","cobblemon:bright_powder","cobblemon:choice_band","cobblemon:choice_scarf","cobblemon:choice_specs","cobblemon:covert_cloak","cobblemon:deep_sea_scale","cobblemon:destiny_knot","cobblemon:eject_button","cobblemon:expert_belt","cobblemon:focus_band","cobblemon:focus_sash","cobblemon:heavy_duty_boots","cobblemon:iron_ball","cobblemon:life_orb","cobblemon:light_ball","cobblemon:loaded_dice","cobblemon:lucky_egg","cobblemon:magnet","cobblemon:mental_herb","cobblemon:metal_coat","cobblemon:metronome","cobblemon:miracle_seed","cobblemon:mirror_herb","cobblemon:muscle_band","cobblemon:never_melt_ice","cobblemon:power_anklet","cobblemon:power_band","cobblemon:power_belt","cobblemon:power_bracer","cobblemon:power_lens","cobblemon:power_weight","cobblemon:power_herb","cobblemon:protective_pads","cobblemon:punching_glove","cobblemon:quick_claw","cobblemon:quick_powder","cobblemon:razor_claw","cobblemon:razor_fang","cobblemon:red_card","cobblemon:ring_target","cobblemon:rocky_helmet","cobblemon:scope_lens","cobblemon:sharp_beak","cobblemon:silk_scarf","cobblemon:silver_powder","smoke_ball","cobblemon:spell_tag","cobblemon:sticky_barb","cobblemon:terrain_extender","cobblemon:throat_spray","cobblemon:toxic_orb","cobblemon:twisted_spoon","cobblemon:weakness_policy","cobblemon:white_herb","cobblemon:wide_lens","cobblemon:wise_glasses","cobblemon:zoom_lens","cobblemon:absorb_bulb","cobblemon:big_root","cobblemon:black_sludge","cobblemon:cell_battery","cobblemon:charcoal","cobblemon:cleanse_tag","cobblemon:damp_rock","cobblemon:deep_sea_tooth","cobblemon:everstone","cobblemon:exp_share","cobblemon:fairy_feather","cobblemon:flame_orb","cobblemon:float_stone","cobblemon:hard_stone","cobblemon:heat_rock","cobblemon:icy_rock","cobblemon:kings_rock","cobblemon:leftovers","cobblemon:light_clay","cobblemon:medicinal_leek","cobblemon:mystic_water","cobblemon:poison_barb","cobblemon:room_service","cobblemon:safety_goggles","cobblemon:shed_shell","cobblemon:shell_bell","cobblemon:soothe_bell","cobblemon:utility_umbrella"],
+      "helditems": ["cobblemon:ability_shield","cobblemon:absorb_bulb","cobblemon:air_balloon","cobblemon:assault_vest","cobblemon:big_root","cobblemon:binding_band","cobblemon:black_belt","cobblemon:black_glasses","cobblemon:black_sludge","cobblemon:blunder_policy","cobblemon:bright_powder","cobblemon:cell_battery","cobblemon:charcoal","cobblemon:choice_band","cobblemon:choice_scarf","cobblemon:choice_specs","cobblemon:cleanse_tag","cobblemon:covert_cloak","cobblemon:damp_rock","cobblemon:deep_sea_scale","cobblemon:deep_sea_tooth","cobblemon:destiny_knot","cobblemon:dragon_fang","cobblemon:eject_button","cobblemon:everstone","cobblemon:eviolite","cobblemon:expert_belt","cobblemon:exp_share","cobblemon:fairy_feather","cobblemon:flame_orb","cobblemon:float_stone","cobblemon:focus_band","cobblemon:focus_sash","cobblemon:hard_stone","cobblemon:heat_rock","cobblemon:heavy_duty_boots","cobblemon:icy_rock","cobblemon:iron_ball","cobblemon:kings_rock","cobblemon:leftovers","cobblemon:life_orb","cobblemon:light_ball","cobblemon:light_clay","cobblemon:loaded_dice","cobblemon:lucky_egg","cobblemon:magnet","cobblemon:mental_herb","cobblemon:metal_coat","cobblemon:metal_powder","cobblemon:metronome","cobblemon:miracle_seed","cobblemon:mirror_herb","cobblemon:muscle_band","cobblemon:mystic_water","cobblemon:never_melt_ice","cobblemon:poison_barb","cobblemon:power_anklet","cobblemon:power_band","cobblemon:power_belt","cobblemon:power_bracer","cobblemon:power_lens","cobblemon:power_weight","cobblemon:power_herb","cobblemon:protective_pads","cobblemon:punching_glove","cobblemon:quick_claw","cobblemon:quick_powder","cobblemon:razor_claw","cobblemon:razor_fang","cobblemon:red_card","cobblemon:ring_target","cobblemon:rocky_helmet","cobblemon:scope_lens","cobblemon:sharp_beak","cobblemon:silk_scarf","cobblemon:silver_powder","cobblemon:smoke_ball","cobblemon:spell_tag","cobblemon:sticky_barb","cobblemon:terrain_extender","cobblemon:throat_spray","cobblemon:toxic_orb","cobblemon:twisted_spoon","cobblemon:weakness_policy","cobblemon:white_herb","cobblemon:wide_lens","cobblemon:wise_glasses","cobblemon:zoom_lens","cobblemon:absorb_bulb","cobblemon:big_root","cobblemon:black_sludge","cobblemon:cell_battery","cobblemon:charcoal","cobblemon:cleanse_tag","cobblemon:damp_rock","cobblemon:deep_sea_tooth","cobblemon:everstone","cobblemon:exp_share","cobblemon:fairy_feather","cobblemon:flame_orb","cobblemon:float_stone","cobblemon:hard_stone","cobblemon:heat_rock","cobblemon:icy_rock","cobblemon:kings_rock","cobblemon:leftovers","cobblemon:light_clay","cobblemon:medicinal_leek","cobblemon:mystic_water","cobblemon:poison_barb","cobblemon:room_service","cobblemon:safety_goggles","cobblemon:shed_shell","cobblemon:shell_bell","cobblemon:soothe_bell","cobblemon:utility_umbrella","cobblemon:terrain_extender","cobblemon:everstone","cobblemon:binding_band","cobblemon:dragon_fang","cobblemon:metal_powder","cobblemon:utility_umbrella"],
+      "consumables": ["cobblemon:room_service","cobblemon:bone","cobblemon:medicinal_leek","cobblemon:snowball"],
+      "gems": ["cobblemon:normal_gem","cobblemon:fire_gem","cobblemon:water_gem","cobblemon:grass_gem","cobblemon:electric_gem","cobblemon:ice_gem","cobblemon:fighting_gem","cobblemon:poison_gem","cobblemon:ground_gem","cobblemon:flying_gem","cobblemon:psychic_gem","cobblemon:bug_gem","cobblemon:rock_gem","cobblemon:ghost_gem","cobblemon:dragon_gem","cobblemon:dark_gem","cobblemon:steel_gem","cobblemon:fairy_gem"],
+      "evolution_stones":["cobblemon:fire_stone","cobblemon:water_stone","cobblemon:thunder_stone","cobblemon:leaf_stone","cobblemon:moon_stone","cobblemon:sun_stone","cobblemon:shiny_stone","cobblemon:dusk_stone","cobblemon:dawn_stone","cobblemon:ice_stone"],
+      "trade_evolution_items":["cobblemon:link_cable","cobblemon:kings_rock","cobblemon:galarica_cuff","cobblemon:galarica_wreath","cobblemon:metal_coat","cobblemon:black_augurite","cobblemon:protector","cobblemon:oval_stone","cobblemon:dragon_scale","cobblemon:electirizer","cobblemon:magmarizer","cobblemon:upgrade","cobblemon:dubious_disc","cobblemon:razor_fang","cobblemon:razor_claw"],
+      "miscellaneous_items":["cobblemon:peat_block","cobblemon:prism_scale","cobblemon:reaper_cloth","cobblemon:deep_sea_tooth","cobblemon:deep_sea_scale","cobblemon:sachet","cobblemon:whipped_dream","cobblemon:tart_apple","cobblemon:sweet_apple","cobblemon:cracked_pot","cobblemon:chipped_pot","cobblemon:masterpiece_teacup","cobblemon:unremarkable_teacup","cobblemon:strawberry_sweet","cobblemon:love_sweet","cobblemon:berry_sweet","cobblemon:clover_sweet","cobblemon:flower_sweet","cobblemon:star_sweet","cobblemon:ribbon_sweet","cobblemon:auspicious_armor","cobblemon:malicious_armor"]
+    }
+  },
+  "Cobblemon_pokeballs": {
+    "icon": "cobblemon:icon/poke_ball",
+    "displayName": "legacy.container.tab.cobblemon.pokeballs",
+    "listing": {
+      "ancient_balls": ["cobblemon:ancient_azure_ball","cobblemon:ancient_citrine_ball","cobblemon:ancient_feather_ball","cobblemon:ancient_gigaton_ball","cobblemon:ancient_great_ball","cobblemon:ancient_heavy_ball","cobblemon:ancient_ivory_ball","cobblemon:ancient_jet_ball","cobblemon:ancient_leaden_ball","cobblemon:ancient_poke_ball","cobblemon:ancient_roseate_ball","cobblemon:ancient_slate_ball","cobblemon:ancient_ultra_ball","cobblemon:ancient_verdant_ball","cobblemon:ancient_wing_ball"],
+      "standard_balls": ["cobblemon:azure_ball","cobblemon:beast_ball","cobblemon:citrine_ball","cobblemon:dive_ball","cobblemon:dream_ball","cobblemon:dusk_ball","cobblemon:fast_ball","cobblemon:friend_ball","cobblemon:great_ball","cobblemon:heal_ball","cobblemon:heavy_ball","cobblemon:iron_ball","cobblemon:level_ball","cobblemon:love_ball","cobblemon:lure_ball","cobblemon:luxury_ball","cobblemon:master_ball","cobblemon:moon_ball","cobblemon:nest_ball","cobblemon:net_ball","cobblemon:park_ball","cobblemon:poke_ball","cobblemon:premier_ball","cobblemon:quick_ball","cobblemon:repeat_ball","cobblemon:roseate_ball","cobblemon:safari_ball","cobblemon:slate_ball","cobblemon:sport_ball","cobblemon:timer_ball","cobblemon:ultra_ball","cobblemon:verdant_ball"]
+    }
+  }
+}
